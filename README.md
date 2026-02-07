@@ -1,6 +1,6 @@
 ## Hi there 👋
-# 💫 About Me:
-🎓 Pursuing B.Tech. in Information Technology at DMI College of Engineering, Chennai<br>🔭 I’m currently working on Python<br>👯 I’m looking to collaborate on  web-based tools and internships<br>🌱 I’m currently learning UI/UX<br>🐧 Fun fact: I talk to my code. It doesn’t talk back 
+# About Me:
+Pursuing B.Tech in Information Technology at DMI College of Engineering, Chennai<br> I’m currently working on Python<br> I’m looking to collaborate on  web-based tools and internships<br> I’m currently learning UI/UX<br> Fun fact: I talk to my code, It doesn’t talk back. 
 
 
 ## 🌐 Socials:
@@ -20,8 +20,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pavithra-raja16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->!--
-**pavithra-raja16/pavithra-raja16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 -->
